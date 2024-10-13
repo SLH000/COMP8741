@@ -77,10 +77,6 @@ This project consists of two main components: a Dog management application and a
 
 To run the Dog application, compile the Java files and run the `DogBreeder` class, which contains the `main` method to demonstrate the functionalities.
 
-```bash
-javac Dog.java DogRegister.java DogBreeder.java
-java DogBreeder
-
 # GUI Calculator
 
 ## Overview
