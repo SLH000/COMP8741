@@ -83,12 +83,6 @@ To run the Dog application, compile the Java files and run the `DogBreeder` clas
 
 This project involves the implementation of a simple GUI calculator in Java. The calculator will support basic arithmetic operations, additional mathematical functions, and memory functionality. The layout and overall appearance of the calculator must adhere to specific design specifications.
 
-![Simple GUI Calculator](../assets/finished_calculator.png "Simple GUI Calculator")
-
-**Important:** Please ensure you read and understand the entire document before you start coding. If clarification is needed, please seek assistance as soon as possible.
-
-
-
 ### Customization
 - **Replace** `yourusername` with your actual GitHub username or organization.
 - **Add License Information** if you have a specific license for your project.
